@@ -30,5 +30,9 @@ números estão em ordem crescente.
 
 ### Exercício 5c
   Neste exercício o programa foi criado para ler o nome e o número de acertos dos candidatos, ele deve listar os candidatos e ao clicar 
-no botão "Aprovados 2ª Fase", nós informamos a quantidade de acertos necessários para passar para a sugunda fase, então a lista deve 
+no botão "Aprovados 2ª Fase", nós informamos a quantidade de acertos necessários para passar para a segunda fase, então a lista deve 
 mostrar somente os candidatos que acertaram a quantidade informada ou mais.
+
+### Exercício 5d
+  Aqui o programa armazena as notícias e informa somente a quantidade de notícias que já foram inseridas, ao clicar no botão "Listar 
+Últimas Notícias", é apresentada a quantidade de notícias informada pelo usuário, começando pela mais recente até a mais antiga.
